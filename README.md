@@ -1,23 +1,27 @@
-# 👋 Master Dream here
+# 👑 Marob
 
-🔄 Reverse engineer, system developer, and creator of advanced tools, auth systems, and memory utilities.
+🔧 C++ Developer • Cheat Developer
 
-## 🔭 Currently working on
+## ⚡ Projekte
 
-- **ZecureAuth** (next-gen authentication & licensing system)
-- **ZeroDown** (private CNC / C2 / botnet framework)
-- **FiveM Offset Dumper** (offset & trigger dumper)
-- **AntiCheat Bypasses** (EAC, BattlEye, FiveM, Faceit)
-- **Memory utilities for game security bypass** (thread spoofing, syscall spoofing, stack spoofing)
+- **FiveM Cheats** – ESP, Aimbot, Triggerbot, Lua Executor, Internal/External Hacks
+- **Hardware Spoofer** – MAC, SMBIOS, Disk Serial, GPU ID Spoofing
+- **Loaders (C++)** – Manual Mapping, PE Injection, Thread Hijacking
+- **AntiCheat Bypasses** – FiveM, EAC, BE (Syscalls, Thread Spoofing, Module Hiding)
+- **Offset & Pattern Dumpers** – Signature Scanners für Game Reversing
 
-## 🧑‍💻 Languages
+## 💻 Languages
 
-C, C++, Rust, C#, Lua, JavaScript, TypeScript, PHP, Python, SQL, HTML/CSS, Batch, PowerShell, Assembly (x64 NASM/MASM)
+C++, Node.js, C#, python
 
-## 🛠 Tools & Areas
+## 🛠 Skills & Bereiche
 
-- Windows Internals & Kernel Development
-- Reverse Engineering & Memory Manipulation
-- PDB parsing, pattern scanning
-- Secure WebSocket server/client architecture
-- Game security, anti-cheat bypass research
+- Kernel & Driver Development
+- Memory Hacking & Hooking
+- AntiCheat Bypass & Game Exploits
+- Loader Security & Anti-Debugging
+- PDB Parsing, Pattern Scanning
+- Socket & WebSocket Kommunikation
+
+## 🔗 Sources
+Coming soon...
