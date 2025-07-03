@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Master Dream here
 
-<!--
-**Marob0xd2lda/Marob0xd2lda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔄 Reverse engineer, system developer, and creator of advanced tools, auth systems, and memory utilities.
 
-Here are some ideas to get you started:
+## 🔭 Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ZecureAuth** (next-gen authentication & licensing system)
+- **ZeroDown** (private CNC / C2 / botnet framework)
+- **FiveM Offset Dumper** (offset & trigger dumper)
+- **AntiCheat Bypasses** (EAC, BattlEye, FiveM, Faceit)
+- **Memory utilities for game security bypass** (thread spoofing, syscall spoofing, stack spoofing)
+
+## 🧑‍💻 Languages
+
+C, C++, Rust, C#, Lua, JavaScript, TypeScript, PHP, Python, SQL, HTML/CSS, Batch, PowerShell, Assembly (x64 NASM/MASM)
+
+## 🛠 Tools & Areas
+
+- Windows Internals & Kernel Development
+- Reverse Engineering & Memory Manipulation
+- PDB parsing, pattern scanning
+- Secure WebSocket server/client architecture
+- Game security, anti-cheat bypass research
